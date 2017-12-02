@@ -7,6 +7,9 @@ ComponentDidMount is executed after the first render only on the client side. Th
 componentWillReceiveProps is invoked as soon as the props are updated before another render is called. We triggered it from setNewNumber when we updated the state.
 ## . ShouldComponentUpdate
 shouldComponentUpdate should return true or false value. This will determine if the component will be updated or not. This is set to true by default. If you are sure that the component doesn't need to render after state or props are updated, you can return false value.
-### . ComponentWillUpdate
-### . ComponentDidUpdate 
-### . ComponentWillUnmount
+## . ComponentWillUpdate
+componentWillUpdate is called just before rendering.
+## . ComponentDidUpdate 
+componentWillUpdate is called just after rendering.
+## . ComponentWillUnmount
+componentWillUnmount is called after the component is unmounted from the dom. We are unmounting our component in main.js.

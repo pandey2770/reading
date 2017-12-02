@@ -1,0 +1,2 @@
+# Webpack 
+webpack is bassically a tool which allows you to bundle all your assets like HTML CSS JS and so on into a single file which get imported in your HTML pages additional webpack is not only bundle stuf it also able to transform it example compailer, sass code all these things so you can load lot of plugin into webpack.

@@ -7,4 +7,4 @@
 5. [Immutability](https://github.com/pandey2770/reading/blob/master/Immutability.md)
 6. [React Life Cycle Method](https://github.com/pandey2770/reading/blob/master/ReactLifeCycle.md)
 7. [webpack](https://github.com/pandey2770/reading/blob/master/webpack.md)
-8. [Local Storage](https://github.com/pandey2770/reading/blob/master/localStorage.md)
+8. [Local Storage](https://github.com/pandey2770/reading/blob/master/localStorage.md) 
